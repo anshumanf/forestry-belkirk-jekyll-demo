@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-04-17T16:48:38+00:00</updated><id>/</id><title type="html">Belkirk College of Engineering</title><subtitle>Belkirk Demo Site for Forestry.io</subtitle><entry><title type="html">Welcome to the Forestry Demo Site!</title><link href="/2017-09-25-introduction/" rel="alternate" type="text/html" title="Welcome to the Forestry Demo Site!" /><published>2017-09-25T09:09:13+00:00</published><updated>2017-09-25T09:09:13+00:00</updated><id>/introduction</id><content type="html" xml:base="/2017-09-25-introduction/">&lt;p&gt;Welcome to the Belkirk College of Engineering Demo Site!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-04-17T16:56:15+00:00</updated><id>/</id><title type="html">Belkirk College of Engineering</title><subtitle>Belkirk Demo Site for Forestry.io</subtitle><entry><title type="html">Anshuman’s Page</title><link href="/2018-01-19-example-draft-1/" rel="alternate" type="text/html" title="Anshuman's Page" /><published>2018-01-19T00:00:00+00:00</published><updated>2018-01-19T00:00:00+00:00</updated><id>/example-draft-1</id><content type="html" xml:base="/2018-01-19-example-draft-1/">&lt;h2 id=&quot;what-are-draft-posts&quot;&gt;What are draft posts?&lt;/h2&gt;
+
+&lt;p&gt;This is an example of a draft post. Draft posts aren’t included when publishing your site.&lt;/p&gt;
+
+&lt;p&gt;This is great for authoring work in progress content, or hiding content that shouldn’t be available at the current time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2018/02/17/building.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s some code:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;from datetime.datetime import now
+
+print(now())
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;print&lt;/code&gt; keyword is a &lt;em&gt;function&lt;/em&gt; identifier in &lt;strong&gt;Python 3&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Et Eärello Endorenna utúlien. Sinome maruvan ar Hildinyar tenn’ Ambar-metta&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Preferences&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OPS team can manage it entirely themselves.&lt;/li&gt;
+  &lt;li&gt;WebSim dev doesn’t manage or host it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;TODOs&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Events page needs to integrate with WebSim API&lt;/li&gt;
+  &lt;li&gt;Sign in should not be integrated on the marketing site.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.wikipedia.org&quot; title=&quot;Wikipedia&quot;&gt;Wikipedia Link&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">What are draft posts?</summary></entry><entry><title type="html">Welcome to the Forestry Demo Site!</title><link href="/2017-09-25-introduction/" rel="alternate" type="text/html" title="Welcome to the Forestry Demo Site!" /><published>2017-09-25T09:09:13+00:00</published><updated>2017-09-25T09:09:13+00:00</updated><id>/introduction</id><content type="html" xml:base="/2017-09-25-introduction/">&lt;p&gt;Welcome to the Belkirk College of Engineering Demo Site!&lt;/p&gt;
 
 &lt;p&gt;This site allows you to explore Forestry’s features and functionality, and is &lt;strong&gt;not&lt;/strong&gt; meant to be used as a production website. To get started building your own site, please see our &lt;a href=&quot;https://forestry.io/docs/&quot;&gt;documentation&lt;/a&gt;.&lt;/p&gt;
 
